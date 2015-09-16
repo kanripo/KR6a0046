@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿那律八念經
+#+DATE: 2015-08-30 19:29:40.071444
+#+PROPERTY: JUAN 0
